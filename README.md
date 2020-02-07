@@ -16,7 +16,7 @@ build system.
 1. To build from command line set `JAVA_HOME` to point to a JDK >=12
 1. Run `./gradlew build`
 
-Then you will find the built artifact located at `build/distributions` directory
+Then you will find the built artifact located at `build/distributions` directory.
 
 ## Install
 Once you have built the plugin from source code, run
